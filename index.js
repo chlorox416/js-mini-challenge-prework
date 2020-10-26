@@ -3,10 +3,10 @@
 // *** Uncomment the lines below to test
 // console.log("%cQuestion 1", "color: red") 
 
-// console.log(counter) 
-// // => 2
-// console.log("%c----------", "color: red") 
-
+console.log(counter) 
+// => 2
+console.log("%c----------", "color: red") 
+var count =1
 
 // ***** Question 2 *****
 
@@ -15,11 +15,11 @@
 // *** otherwise, the error will stop the rest of your code from running
 // console.log("%cQuestion 2", "color: red") 
 
-// console.log(name)
-// // => "Ian"
-// name = "Not Ian" 
-// // => TypeError
-// console.log("%c----------", "color: red") 
+console.log(name)
+// => "Ian"
+name = "Not Ian" 
+// => TypeError
+console.log("%c----------", "color: red") 
 
 
 
